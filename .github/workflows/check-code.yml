@@ -16,4 +16,4 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v2
       - run: npm install
-      - run: npm run ci
+      - run: npm ci
