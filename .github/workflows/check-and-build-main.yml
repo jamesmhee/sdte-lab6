@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: DOCKER_IMAGE_REPO
+          tags: "jamesmhee/sdte-lab6:latest"
           push: true
